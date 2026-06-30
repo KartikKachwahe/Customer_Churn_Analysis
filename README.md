@@ -453,9 +453,6 @@ Key strategies such as improving service quality, incentivizing auto-pay methods
 
 Implementing these recommendations will not only improve customer retention but also positively impact revenue growth and long-term loyalty.
 
-This project demonstrates how Business Intelligence tools can transform raw telecom data into actionable insights.
-
-The analysis identifies the primary drivers of customer churn and provides practical recommendations to improve customer retention, optimize service offerings, and increase profitability.
 
 
 ---
