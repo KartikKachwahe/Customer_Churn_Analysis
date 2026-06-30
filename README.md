@@ -15,7 +15,7 @@
 
 ---
 
-# 📑 Table of Contents
+#  Table of Contents
 
 - [Project Overview](#-project-overview)
 - [Business Problem](#-business-problem)
@@ -39,7 +39,7 @@
 
 ---
 
-# 📖 Project Overview
+#  Project Overview
 
 Customer churn is one of the most significant challenges faced by telecom companies. Retaining existing customers is considerably more cost-effective than acquiring new ones, making churn analysis a critical business function.
 
