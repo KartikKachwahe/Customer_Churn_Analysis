@@ -1,4 +1,4 @@
-# 📊 Telecom Customer Churn Analysis
+# Telecom Customer Churn Analysis
 
 <p align="center">
 
@@ -49,7 +49,7 @@ The final deliverable includes interactive Power BI dashboards designed to help 
 
 ---
 
-# 🎯 Business Problem
+#  Business Problem
 
 The telecom company experiences a customer churn rate of **26.5%**, resulting in revenue loss and increased customer acquisition costs.
 
@@ -63,7 +63,7 @@ The company wants to answer questions such as:
 
 ---
 
-# 🎯 Project Objectives
+#  Project Objectives
 
 - Analyze customer churn behavior.
 - Identify major churn drivers.
@@ -75,7 +75,7 @@ The company wants to answer questions such as:
 
 ---
 
-# 📂 Dataset Information
+#  Dataset Information
 
 **Source:** Kaggle
 
@@ -89,14 +89,14 @@ The company wants to answer questions such as:
 
 ### Features Included
 
-### 👤 Customer Information
+###  Customer Information
 
 - Gender
 - Senior Citizen
 - Partner
 - Dependents
 
-### 🌐 Services
+###  Services
 
 - Phone Service
 - Multiple Lines
@@ -108,7 +108,7 @@ The company wants to answer questions such as:
 - Streaming TV
 - Streaming Movies
 
-### 💳 Billing Information
+###  Billing Information
 
 - Contract Type
 - Monthly Charges
@@ -116,13 +116,13 @@ The company wants to answer questions such as:
 - Paperless Billing
 - Payment Method
 
-### 🎯 Target
+###  Target
 
 - Customer Churn (Yes / No)
 
 ---
 
-# 🛠 Tech Stack
+#  Tech Stack
 
 | Technology | Purpose |
 |------------|---------|
@@ -134,7 +134,7 @@ The company wants to answer questions such as:
 
 ---
 
-# 🔄 Project Workflow
+#  Project Workflow
 
 ```
 Raw Dataset
@@ -162,7 +162,7 @@ Recommendations
 
 ---
 
-# 🧹 Data Cleaning
+#  Data Cleaning
 
 Data preprocessing was performed in SQL Server.
 
@@ -181,11 +181,11 @@ Excel was used to verify data quality before dashboard development.
 
 ---
 
-# 📊 Dashboard Development
+#  Dashboard Development
 
 Two interactive dashboards were created in Power BI.
 
-## 📊 Overall Customer Dashboard
+##  Overall Customer Dashboard
 
 Provides a complete overview of:
 
@@ -198,7 +198,7 @@ Provides a complete overview of:
 
 ---
 
-## 📉 Customer Churn Dashboard
+## Customer Churn Dashboard
 
 Focused exclusively on churned customers.
 
@@ -213,7 +213,7 @@ Includes:
 
 ---
 
-# 📈 Key Performance Indicators
+#  Key Performance Indicators
 
 | KPI | Value |
 |------|--------|
@@ -226,16 +226,16 @@ Includes:
 
 ---
 
-# 🔍 Key Insights
+#  Key Insights
 
-## 📌 Customer Churn
+##  Customer Churn
 
 - Approximately **1 out of every 4 customers** churned.
 - Overall churn rate is **26.5%**.
 
 ---
 
-## 🌐 Internet Service
+##  Internet Service
 
 Customers using **Fiber Optic Internet** experience the highest churn.
 
@@ -247,19 +247,19 @@ Possible reasons include:
 
 ---
 
-## 💳 Payment Method
+##  Payment Method
 
 Customers paying via **Electronic Check** have significantly higher churn than Auto-Pay users.
 
 ---
 
-## 📅 Contract Type
+##  Contract Type
 
 Customers on **Month-to-Month contracts** are substantially more likely to churn than customers with long-term contracts.
 
 ---
 
-## 👨‍👩‍👧 Customer Demographics
+##  Customer Demographics
 
 Gender has minimal influence on churn.
 
@@ -272,7 +272,7 @@ show noticeably better retention.
 
 ---
 
-## 🛡 Value-Added Services
+##  Value-Added Services
 
 Customers using:
 
@@ -285,7 +285,7 @@ are less likely to churn.
 
 ---
 
-# 💼 Business Recommendations
+#  Business Recommendations
 
 ## Improve Fiber Internet Service
 
@@ -346,25 +346,25 @@ Strategies:
 
 ---
 
-# 🚀 Business Impact
+#  Business Impact
 
 This project transforms customer data into actionable business insights that support strategic decision-making.
 
 ### Potential Business Benefits
 
-- 📉 Reduce customer churn by identifying high-risk customers.
-- 💰 Increase customer lifetime value.
-- 🎯 Improve targeted marketing campaigns.
-- 📊 Enable KPI-driven decision-making.
-- 🤝 Support proactive customer retention.
-- 📦 Increase adoption of premium services.
-- 💳 Promote Auto-Pay adoption.
-- 📅 Increase long-term contract adoption.
-- 📈 Improve long-term revenue growth.
+-  Reduce customer churn by identifying high-risk customers.
+-  Increase customer lifetime value.
+-  Improve targeted marketing campaigns.
+-  Enable KPI-driven decision-making.
+-  Support proactive customer retention.
+-  Increase adoption of premium services.
+-  Promote Auto-Pay adoption.
+-  Increase long-term contract adoption.
+-  Improve long-term revenue growth.
 
 ---
 
-# 📈 Dashboard Preview
+#  Dashboard Preview
 
 ## Overall Customer Dashboard
 
@@ -378,7 +378,7 @@ This project transforms customer data into actionable business insights that sup
 
 ---
 
-# 📁 Repository Structure
+#  Repository Structure
 
 ```
 Telecom-Customer-Churn-Analysis
@@ -394,7 +394,7 @@ Telecom-Customer-Churn-Analysis
 
 ---
 
-# 🔗 Project Resources
+#  Project Resources
 
 | Resource | Description |
 |-----------|-------------|
@@ -405,12 +405,11 @@ Telecom-Customer-Churn-Analysis
 
 ---
 
-# 💡 Skills Demonstrated
+#  Skills Demonstrated
 
 ### SQL
 
 - Data Cleaning
-- Joins
 - Aggregations
 - CASE Statements
 - Data Transformation
@@ -436,7 +435,7 @@ Telecom-Customer-Churn-Analysis
 
 ---
 
-# 🔮 Future Enhancements
+#  Future Enhancements
 
 - Predict customer churn using Machine Learning.
 - Deploy dashboards using Power BI Service.
@@ -446,31 +445,36 @@ Telecom-Customer-Churn-Analysis
 
 ---
 
-# 🎯 Conclusion
+#  Conclusion
+
+This project highlights that 26.5% of customers churn, with churn concentrated among Fiber Optic internet users and Electronic Check payers.
+
+Key strategies such as improving service quality, incentivizing auto-pay methods, promoting long-term contracts, and increasing adoption of support-related services can significantly reduce churn.
+
+Implementing these recommendations will not only improve customer retention but also positively impact revenue growth and long-term loyalty.
 
 This project demonstrates how Business Intelligence tools can transform raw telecom data into actionable insights.
 
 The analysis identifies the primary drivers of customer churn and provides practical recommendations to improve customer retention, optimize service offerings, and increase profitability.
 
-By combining **SQL Server**, **Power BI**, and **Excel**, this project delivers an end-to-end analytics solution that supports data-driven decision-making and helps businesses improve customer loyalty and long-term revenue.
 
 ---
 
-# 👨‍💻 Author
+#  Author
 
 ## Kartik Kachwahe
 
-**Aspiring Data Analyst | SQL | Power BI | Excel | Business Intelligence**
+**Aspiring Data Scientist | Data Analyst | SQL | Power BI | Excel | Business Intelligence**
 
-📧 Email: your-email@example.com
+📧 Email: kartikkachwahe25@gmail.com
 
-💼 LinkedIn: https://linkedin.com/in/your-profile
+💼 LinkedIn: https://www.linkedin.com/in/kartikkachwahe021
 
 💻 GitHub: https://github.com/KartikKachwahe
 
 ---
 
-## ⭐ Support
+##  Support
 
 If you found this project helpful or learned something from it, consider giving this repository a ⭐.
 
