@@ -1,5 +1,7 @@
 # Telecom Customer Churn Analysis
 
+---
+
 <p align="center">
 
 ![SQL Server](https://img.shields.io/badge/SQL%20Server-Database-red?style=for-the-badge&logo=microsoftsqlserver)
